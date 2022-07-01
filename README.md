@@ -3,7 +3,7 @@
 22 - programmer
 
 Skills:
-Angular CLI
+Angular CLI<br>
 Electron
 
 HTML5, CSS, JS (advanced - pro)<br>
