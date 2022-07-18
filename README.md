@@ -6,9 +6,9 @@ Skills:
 Angular CLI<br>
 Electron
 
-HTML5, CSS, JS (advanced - pro)<br>
-PYTHON (advanced)<br>
-C, C#, C++ (mid)<br>
+HTML5, CSS, JS (adv - pro)<br>
+PYTHON (mid-adv)<br>
+C, C#, C++ (low)<br>
 <br>
 SQL<br>
 MySQL<br>
