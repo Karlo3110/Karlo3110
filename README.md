@@ -1,16 +1,12 @@
 # 👋 Hey there! I'm Karlo
 ## 🚀 Full-Stack Developer
 
----
-
 ### 💡 About Me
 
 - 🔧 Passionate about crafting elegant solutions using clean, scalable code
 - 💻 Currently diving deep into `Next.js`, `GQL`, and cloud-native tooling
 - 🛠️ Fan of Linux terminals, dark mode, and pixel-perfect UI
 - 🧠 Always learning, always building
-
----
 
 ### 🧰 Tech Stack & Tools
 
@@ -31,8 +27,6 @@
 - **DevOps**:  
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-
----
 
 ### 📈 GitHub Stats
 
