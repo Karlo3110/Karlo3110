@@ -1,5 +1,5 @@
-# 👋 Hey there! I'm Karlo (aka Karlo3110)
-## 🚀 Full-Stack Developer | Builder of Cool Things | Open Source Enthusiast
+# 👋 Hey there! I'm Karlo
+## 🚀 Full-Stack Developer
 
 ---
 
