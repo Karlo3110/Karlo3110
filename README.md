@@ -28,13 +28,6 @@
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 
-### 📈 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karlo3110&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karlo3110&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
-</div>
-
 ---
 
 ### 🌐 Connect with Me
