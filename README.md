@@ -33,6 +33,6 @@
 ### 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/karlo-starcevic/)  
-- [Portfolio](https://visualvaultsolutions.com)
+- [Portfolio](https://starcode.tech)
 
 ---
