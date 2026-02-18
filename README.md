@@ -2,14 +2,9 @@
 ## 🚀 Full-Stack Developer
 
 ### 💡 About Me
-
-- 🔧 Passionate about crafting elegant solutions using clean, scalable code
-- 💻 Currently diving deep into `Next.js`, `GQL`, and cloud-native tooling
-- 🛠️ Fan of Linux terminals, dark mode, and pixel-perfect UI
-- 🧠 Always learning, always building
+- 💻 Currently diving deep into `Next.js`, `Nest.js`, `GQL`, `Postgresql`, and cloud-native tooling
 
 ### 🧰 Tech Stack & Tools
-
 - **Languages**:  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)  
@@ -34,5 +29,12 @@
 
 - [LinkedIn](https://www.linkedin.com/in/karlo-starcevic/)  
 - [Portfolio](https://starcode.tech)
+
+### PORTFOLIO
+- [Restaurant ERP](https://qrez.app)
+- [Formula live stats](https://formula-stats.com)
+- [E-Commerce Webshop](https://lunaria.id)
+- [E-Sports scrim and coaching system](https://scrimx.com)
+- [Discord bot](https://rikachan.app)
 
 ---
