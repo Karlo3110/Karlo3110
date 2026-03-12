@@ -33,6 +33,4 @@ Client websites:
 - [Ariana S Kezia](https://www.arianaskezia.id/)
 - [Vita Elpeza](https://vitaelpeza.com/)
 - [Fusspflege Elpeza](https://fusspflege-elpeza.ch/)
-- 
-
 ---
